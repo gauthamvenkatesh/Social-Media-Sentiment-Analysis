@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Gautham Venkatesh**
 - GitHub: [@gauthamvenkatesh](https://github.com/gauthamvenkatesh)
 - LinkedIn: [Gautham Venkatesh](https://www.linkedin.com/in/gauthamvenkatesh)
 - Email: connect@gauthamvenkatesh.com
