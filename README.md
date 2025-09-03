@@ -194,9 +194,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@domain.com
+- GitHub: [@gauthamvenkatesh](https://github.com/gauthamvenkatesh)
+- LinkedIn: [Gautham Venkatesh](https://www.linkedin.com/in/gauthamvenkatesh)
+- Email: connect@gauthamvenkatesh.com
 
 ## 🙏 Acknowledgments
 
